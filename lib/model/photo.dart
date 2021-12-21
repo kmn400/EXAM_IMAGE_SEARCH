@@ -26,6 +26,9 @@ class Photo {
 
   쿡북에 나와있는 내용을 그대로 복붙하여 활용하면 된다.
 
+  ---
+  아래 코드는 JSON 문서 중, previewURL만을 추출할 수 있는 코드다.
+
    */
 
   final String previewURL;
